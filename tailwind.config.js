@@ -1,4 +1,5 @@
 module.exports = {
+  content: ["./dist/**/*.{html,js}"],
   purge: [],
   darkMode: false, // or 'media' or 'class'
   theme: {
